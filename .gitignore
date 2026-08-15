@@ -25,3 +25,5 @@ Thumbs.db
 # Dependências baixadas
 /lib/
 /target/
+
+.vscode
