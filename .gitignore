@@ -1,0 +1,27 @@
+# Arquivos de build
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+/bin/
+/build/
+
+# Configurações da IDE
+/.classpath
+/.project
+/.settings/
+/.idea/
+/*.iml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependências baixadas
+/lib/
+/target/
