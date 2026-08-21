@@ -27,6 +27,14 @@
                     <target>17</target>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <mainClass>main.java.br.com.Everton3012.cm.Aplicacao</mainClass>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 </project>
